@@ -2,9 +2,12 @@
 	"packages": [
 		{
 			"name": "NTB EUR Boards",
-			"maintainer": "Samuel Kranz",
+			"maintainer": "ESA Team",
 			"websiteURL": "https://www.ntb.ch/esa",
 			"email": "samuel.kranz@ntb.ch",
+         "help": {
+            "online": "https://wiki.ntb.ch/infoportal/euri_projekt"
+         },
 
 			"platforms": [
 				{
@@ -14,7 +17,6 @@
                "help": {
                   "online": "https://wiki.ntb.ch/infoportal/euri_projekt"
                },
-
 					"url": "https://raw.githubusercontent.com/ntbesa/ArduinoLib/master/ntb-1.0.0.zip",
 					"archiveFileName": "ntb-1.0.0.zip",
 					"checksum": "SHA-256:16ac3abd1672c7adc4c9ee06b59aa67ff644e294517639eec18dafb00ebf15e1",
