@@ -17,14 +17,14 @@
                "help": {
                   "online": "https://wiki.ntb.ch/infoportal/euri_projekt"
                },
-					"url": "https://raw.githubusercontent.com/ntbesa/ArduinoLib/master/ntb-1.0.0.zip",
-					"archiveFileName": "ntb-1.0.0.zip",
-					"checksum": "SHA-256:155683ced46341945d7872bb3aa0021579fb90d775981dafa9a9d44499c1b58d",
-					"size": "69467",
-					"version": "1.0.0",
+					"url": "https://raw.githubusercontent.com/ntbesa/ArduinoLib/master/ntb-2018.0.0.zip",
+					"archiveFileName": "ntb-2018.0.0.zip",
+					"checksum": "SHA-256:784dee12769649f2eeea363a52fc4930c6b1b685242d8d99303221da6bfe76a4",
+					"size": "70707",
+					"version": "2018.0.0",
 					"boards": [
 						{
-							"name": "Multimeter EUR I"
+							"name": "Multimeter EUR"
 						}
 					],
 					  

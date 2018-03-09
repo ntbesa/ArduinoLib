@@ -40,15 +40,15 @@ class MatlabExporterClass
 public:
 
   /* Constructor */
-  MatlabExporterClass::MatlabExporterClass(void) {}
+  MatlabExporterClass(void) {}
   
   /* Destructor */
-  MatlabExporterClass::~MatlabExporterClass(void){}
+  ~MatlabExporterClass(void){}
 
-  static void MatlabExporterClass::exportArray(double *data, uint16_t len);
-  static void MatlabExporterClass::exportArray(uint8_t *data, uint16_t len);
-  static void MatlabExporterClass::exportArray(uint16_t *data, uint16_t len);
-  static void MatlabExporterClass::exportArray(uint32_t *data, uint16_t len);
+  static void exportArray(double *data, uint16_t len);
+  static void exportArray(uint8_t *data, uint16_t len);
+  static void exportArray(uint16_t *data, uint16_t len);
+  static void exportArray(uint32_t *data, uint16_t len);
 
 };
 
