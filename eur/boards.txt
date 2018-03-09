@@ -35,7 +35,7 @@ multimeter.build.vid=0x2341
 multimeter.build.pid=0x8036
 multimeter.build.usb_product="NTB Multimeter"
 multimeter.build.board=AVR_LEONARDO
-multimeter.build.core=arduino
+multimeter.build.core=arduino:arduino
 multimeter.build.variant=leonardo
 multimeter.build.extra_flags={build.usb_flags}
 
