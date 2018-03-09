@@ -19,8 +19,8 @@
                },
 					"url": "https://raw.githubusercontent.com/ntbesa/ArduinoLib/master/ntb-2018.0.0.zip",
 					"archiveFileName": "ntb-2018.0.0.zip",
-					"checksum": "SHA-256:784dee12769649f2eeea363a52fc4930c6b1b685242d8d99303221da6bfe76a4",
-					"size": "70707",
+					"checksum": "SHA-256:249da5388b85a5083cfe98781c91ddfa55a9d85205b121a74b099aeec18e62bc",
+					"size": "70728",
 					"version": "2018.0.0",
 					"boards": [
 						{
