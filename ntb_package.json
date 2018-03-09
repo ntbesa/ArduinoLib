@@ -1,0 +1,42 @@
+{
+	"packages": [
+		{
+			"name": "NTB EUR Boards",
+			"maintainer": "Samuel Kranz",
+			"websiteURL": "https://www.ntb.ch/esa",
+			"email": "samuel.kranz@ntb.ch",
+
+			"platforms": [
+				{
+					"name": "NTB EUR Boards",
+					"architecture": "avr",
+					"category": "NTB EUR Boards",
+					"url": "https://github.com/ntbesa/ArduinoLib/ntb-1.0.0.zip",
+					"archiveFileName": "ntb-1.0.0.zip",
+					"checksum": "SHA-256:45074BAD2B37C59DBBB2C9A34FA31FB9BBF348AD409974A203FA507163CC41C2CC9F29DCD65914B0185309F9DACECA756AB37F5526F1ADAC8D77A065AB1C7EDA",
+					"size": "32171",
+					"version": "1.0.0",
+					"boards": [
+						{
+							"name": "Multimeter EUR I"
+						}
+					],
+					  
+					"toolsDependencies": [
+						{
+							"packager": "arduino",
+							"version": "4.8.1-arduino5",
+							"name": "avr-gcc"
+						},
+						{
+							"packager": "arduino",
+							"version": "6.0.1-arduino5",
+							"name": "avrdude"
+						}
+					]
+				},
+			],
+			"tools": [],
+		}
+	]
+}
