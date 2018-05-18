@@ -40,6 +40,37 @@
 							"name": "avrdude"
 						}
 					]
+				},
+				{
+					"name": "NTB EUR Boards",
+					"architecture": "avr",
+					"category": "Contributed",
+               "help": {
+                  "online": "https://wiki.ntb.ch/infoportal/euri_projekt"
+               },
+					"url": "https://raw.githubusercontent.com/ntbesa/ArduinoLib/master/ntb-2018.0.1.zip",
+					"archiveFileName": "ntb-2018.0.1.zip",
+					"checksum": "SHA-256:0072e152dfa3c5a7b6fbb163cffb7e06eab15ca0ecc58764b6b0b9942b158448",
+					"size": "72306",
+					"version": "2018.0.1",
+					"boards": [
+						{
+							"name": "Multimeter EUR"
+						}
+					],
+					  
+					"toolsDependencies": [
+						{
+							"packager": "arduino",
+							"version": "4.8.1-arduino5",
+							"name": "avr-gcc"
+						},
+						{
+							"packager": "arduino",
+							"version": "6.0.1-arduino5",
+							"name": "avrdude"
+						}
+					]
 				}
 			],
 			"tools": []
